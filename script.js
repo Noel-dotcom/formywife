@@ -1,4 +1,4 @@
-const message = `I miss you Lexi, I think and yearn about you everyday.\n\nI’m really sorry for everything, I'm pretty much in shambles after you left. \n\nI know you’re doing better without me and don’t miss me, but I just hope you’re okay.\n\nI hope you’re not bullying our child Bri anymore. I pray for you everyday. I miss you and Bri.`;
+const message = `I love you my trans wife, I will always support you for who you are.\n\nI’m really sorry for being a bad boyfriend. \n\nI hope you will never leave me ever cause I love you.\n\nJust know I love everything about you, mwah!.`;
 
 function showLetter() {
    // Play background music
