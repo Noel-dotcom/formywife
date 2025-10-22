@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>A Letter for You</title>
+    <link rel="stylesheet" href="styleletter.css" />
+  </head>
+  <body>
+    <div class="intro" id="introText">
+      i hope you read this, even if it's too late.
+    </div>
+
+    <button class="btn" onclick="showLetter()">Read it</button>
+
+    <div class="letter" id="letterBox">
+      <p id="typedText"></p>
+
+      <!-- signature button -->
+      <img
+        src="ttd.png"
+        alt="Signature"
+        class="signature"
+        onclick="window.location.href='flowershome.html'"
+      />
+    </div>
+     <audio id="bgMusic" loop style="display:none;">
+       <source src="Love Shine.mp3" type="audio/mpeg">
+     </audio>
+
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
