@@ -1,4 +1,4 @@
-const message = `I love you my trans wife, I will always support you for who you are.\n\nI’m really sorry for being a bad boyfriend. \n\nI hope you will never leave me ever cause I love you.\n\nJust know I love everything about you, mwah!.`;
+const message = `I love you my trans wife, and I will always support you for who you are, no matter what.\n\nI’m really sorry for being a bad boyfriend sometimes. \n\nI hope you’ll never leave me, because I love you so much.\n\nJust know I love everything about you, mwah!.`;
 
 function showLetter() {
    // Play background music
